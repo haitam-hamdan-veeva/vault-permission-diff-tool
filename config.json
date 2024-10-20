@@ -1,12 +1,12 @@
 {
     "vault_settings": {
-      "vault_dns": "ADD_YOUR_VAULT_DNS_HERE",
-      "api_version": "ADD_VAULT_API_VERSION_HERE",
-      "session_id": "ADD_YOUR_SESSION_ID_HERE"
+      "vault_dns": "your_vault_dns_here",
+      "api_version": "your_vault_api_version_here",
+      "session_id": "your_session_id_here"
     },
     "security_profiles_settings": {
-      "source_security_profile_key": "ADD_SECURITY_PROFILE_1",
-      "target_security_profile_key": "ADD_SECURITY_PROFILE_2"
+      "source_security_profile_key": "your_source_security_profile_key_here",
+      "target_security_profile_key": "your_target_security_profile_key_here"
     }
   }
   
