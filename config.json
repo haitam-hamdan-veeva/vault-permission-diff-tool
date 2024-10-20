@@ -1,12 +1,12 @@
 {
     "vault_settings": {
-      "vault_dns": "supportvaults-platform-gr-vv1-1077-community.veevavault.com",
-      "api_version": "v24.1",
-      "session_id": "AF149106EFE05BE70A2C2A6029D227C73FA99C0B3F4879318C660CEE07B802A93EC5A270983164492C92E87321B845912631D8A6516C01687CD10B07E8CCA26A"
+      "vault_dns": "ADD_YOUR_VAULT_DNS_HERE",
+      "api_version": "ADD_VAULT_API_VERSION_HERE",
+      "session_id": "ADD_YOUR_SESSION_ID_HERE"
     },
     "security_profiles_settings": {
-      "source_security_profile_key": "ling_test_profile__c",
-      "target_security_profile_key": "dave_system_administrator__c"
+      "source_security_profile_key": "ADD_SECURITY_PROFILE_1",
+      "target_security_profile_key": "ADD_SECURITY_PROFILE_2"
     }
   }
   
